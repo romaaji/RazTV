@@ -7,6 +7,10 @@ Website: https://tv.raz.my.id <br/>
 
 # Screenshoot!![image (2)](https://user-images.githubusercontent.com/60551839/165899734-9b01ca59-a41b-4aca-a210-ff4e197b2488.png)
 
+<p align="center">
+<a href="https://github.com/romaaji"><img title="Developer" src="https://i.ibb.co/1zXTQtt/Group-5ko-2.png"></a>
+</p>
+
 # Demo User
 - Email: demo@raz.my.id
 - Password: demo12345
