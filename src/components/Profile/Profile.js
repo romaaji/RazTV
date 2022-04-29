@@ -174,29 +174,29 @@ export default function Profile() {
                                     </div>
 
                                     
+                                    
                                     <div className="col-12 col-lg-6">
                                         <form onSubmit={handlePasswordChange} className="sign__form sign__form--profile">
                                             <div className="row">
                                                 <div className="col-12">
                                                     <h4 className="sign__title">Change password</h4>
-                                                    <h4 className="sign__title">Disable On Demo</h4>
                                                 </div>
                                                 <div className="col-12 col-md-6 col-lg-12 col-xl-6">
                                                     <div className="sign__group">
                                                         <label className="sign__label" for="oldpass">Old password</label>
-                                                        <input readonly type="password" className="sign__input" />
+                                                        <input ref={oldPasswordRef} readonly type="password" className="sign__input" />
                                                     </div>
                                                 </div>
                                                 <div className="col-12 col-md-6 col-lg-12 col-xl-6">
                                                     <div className="sign__group">
                                                         <label className="sign__label" for="newpass">New password</label>
-                                                        <input readonly type="password" className="sign__input" />
+                                                        <input ref={newPasswordRef} readonly type="password" className="sign__input" />
                                                     </div>
                                                 </div>
                                                 <div className="col-12 col-md-6 col-lg-12 col-xl-6">
                                                     <div className="sign__group">
                                                         <label className="sign__label" for="confirmpass">Confirm new password</label>
-                                                        <input readonly type="password" className="sign__input" />
+                                                        <input ref={confirmNewPasswordRef} readonly type="password" className="sign__input" />
                                                     </div>
                                                 </div>
                                                 <div className="col-12 ">
