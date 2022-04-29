@@ -1,5 +1,5 @@
 # RazTV - Online Streaming Website Free
-This is a defense project for the ReactJS course at SoftUni
+This is a project made with ReactJS
 
 RazTV offers a bunch of free movies with just a click of button! Watch your favorite movies anytime you want to watch them with just a quick registration. No need to buy or rent, just download and watch!. It's a personalized streaming service that filters movies and TV shows according to your interests, so that you only see the ones you're interested in. Remember Netflix? RazTV is like Netflix for everyone and for life. <br/>
 
